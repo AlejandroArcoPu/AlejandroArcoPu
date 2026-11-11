@@ -53,8 +53,8 @@ I'm a software engineer based in _Málaga, Spain_ 😎. I am passionate about bu
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroArcoPu&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroArcoPu&layout=compact&theme=dark)
+![GitHub stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ## 🌐 Connect With Me
 
