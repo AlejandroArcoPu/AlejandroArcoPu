@@ -20,9 +20,7 @@ I'm a software engineer based in _Málaga, Spain_ 😎. I am passionate about bu
 ![.NET](https://img.shields.io/badge/.net-5C2D91?logo=.NET&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)
 
-**DevOps & Cloud**
-
-**☁️ Cloud, DevOps & Observability**
+**Cloud, DevOps & Observability**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
