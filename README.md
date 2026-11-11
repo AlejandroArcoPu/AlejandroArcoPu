@@ -7,7 +7,7 @@ I'm a software engineer based in _Málaga, Spain_ 😎. I am passionate about bu
 - 🤭 My journey in software began in **2022**, when I finished my **Bachelor’s in Software Engineering**.
 - ⚙ My first professional role was in **DevOps**, where I learned the importance of automation, reliability, observability and infrastructure.
 - 🙌 Currently working on [Sector Alarm Tech](https://www.sectoralarm.com/) as _Platform/SRE/DevOps_.
-- 🌱 Outside of work, I'm exploring Go, Clean Code, Software Architecture, and Observability.
+- 🌱 Outside of work, I'm exploring Go, AI, Clean Code, Software Architecture, and Observability.
 
 ## 🛠 ToolBet
 
